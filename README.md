@@ -1,3 +1,10 @@
+###  DATE: 26-03-24
+
+###  NAME: SRIVATSAN V
+###  ROLL NO :212223110053
+###  DEPARTMENT: CSE(IOT)
+
+
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
